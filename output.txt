@@ -1,0 +1,90 @@
+A
+
+ A 
+ABC
+
+  A  
+ ABC 
+ABCDA
+
+   A   
+  ABC  
+ ABCDE 
+ABCDEAB
+
+    A    
+   ABC   
+  ABCDE  
+ ABCDEFA 
+ABCDEFABC
+
+     A     
+    ABC    
+   ABCDE   
+  ABCDEFG  
+ ABCDEFGAB 
+ABCDEFGABCD
+
+      A      
+     ABC     
+    ABCDE    
+   ABCDEFG   
+  ABCDEFGHA  
+ ABCDEFGHABC 
+ABCDEFGHABCDE
+
+       A       
+      ABC      
+     ABCDE     
+    ABCDEFG    
+   ABCDEFGHI   
+  ABCDEFGHIAB  
+ ABCDEFGHIABCD 
+ABCDEFGHIABCDEF
+
+        A        
+       ABC       
+      ABCDE      
+     ABCDEFG     
+    ABCDEFGHI    
+   ABCDEFGHIJA   
+  ABCDEFGHIJABC  
+ ABCDEFGHIJABCDE 
+ABCDEFGHIJABCDEFG
+
+         A         
+        ABC        
+       ABCDE       
+      ABCDEFG      
+     ABCDEFGHI     
+    ABCDEFGHIJK    
+   ABCDEFGHIJKAB   
+  ABCDEFGHIJKABCD  
+ ABCDEFGHIJKABCDEF 
+ABCDEFGHIJKABCDEFGH
+
+          A          
+         ABC         
+        ABCDE        
+       ABCDEFG       
+      ABCDEFGHI      
+     ABCDEFGHIJK     
+    ABCDEFGHIJKLA    
+   ABCDEFGHIJKLABC   
+  ABCDEFGHIJKLABCDE  
+ ABCDEFGHIJKLABCDEFG 
+ABCDEFGHIJKLABCDEFGHI
+
+           A           
+          ABC          
+         ABCDE         
+        ABCDEFG        
+       ABCDEFGHI       
+      ABCDEFGHIJK      
+     ABCDEFGHIJKLM     
+    ABCDEFGHIJKLMAB    
+   ABCDEFGHIJKLMABCD   
+  ABCDEFGHIJKLMABCDEF  
+ ABCDEFGHIJKLMABCDEFGH 
+ABCDEFGHIJKLMABCDEFGHIJ
+
